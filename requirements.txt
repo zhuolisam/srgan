@@ -1,0 +1,4 @@
+albumentations
+tqdm
+torch
+torchvision
