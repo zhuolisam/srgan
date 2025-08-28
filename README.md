@@ -1,5 +1,8 @@
 # SRGAN Code Replication
----
+
+Notebook int SRGAN.ipynb
+
+
 ### Hyperparameter used
 NUM_EPOCHS = 1000
 
@@ -9,7 +12,7 @@ NUM_WORKERS = 4
 
 
 
-### Failed to replicate results
+### Failed to replicate results from paper as claimed
 
 Input
 
