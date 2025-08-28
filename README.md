@@ -2,7 +2,9 @@
 ---
 ### Hyperparameter used
 NUM_EPOCHS = 1000
+
 BATCH_SIZE = 16
+
 NUM_WORKERS = 4
 
 
@@ -11,8 +13,8 @@ NUM_WORKERS = 4
 
 Input
 
-![Low Res input](./assets/801_low_res.png)
+![Low Res Input](assets/801_low_res.png)
 
 Output
 
-![SR generated](./assets/801_gen.png)
+![Super Res Generated](assets/801_gen.png)
